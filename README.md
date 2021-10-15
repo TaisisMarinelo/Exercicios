@@ -4,6 +4,20 @@
 
 #### Aluna Taisis
 
+
+
+#### Dia 14/10/2021
+
+#### Projeto exercícios com as atividades solicitadas pelos professores.
+
+#### MediaAlunos.java = Calcular média de X alunos. 
+
+#### Notas válidas: entre 0 e 10 Contar quantas notas válidas foram digitadas.
+
+#### Usuário deve digitar -1 para sair do programa e ser informado da sua média e quantidade de notas.
+
+
+
 #### Dia 12/10/2021
 
 #### Projeto exercícios com as atividades solicitadas pelos professores.
